@@ -4,7 +4,7 @@
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne
 * 🎓 BSc in Statistics at Harbin Institute of Technology 
 * 💻 Software Development, Data Science, Machine Learning are my interests
-* 😍 Huge fan of fitness, skiing, hiking, mountaineering!!!
+* 😍 Huge fan of fitness, skiing, hiking and mountaineering!!!
 
 
 ## 📫 Let's connect!
