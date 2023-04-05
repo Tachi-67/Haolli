@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Haolong Li (he/him)
----
 
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne
 * 🎓 BSc in Statistics at Harbin Institute of Technology 
