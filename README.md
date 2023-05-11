@@ -15,6 +15,6 @@
 
 
 ## 🔨 Have a look at my projects!
-* [`Cook4Me`](https://github.com/cook4me/android): An app to enhance people's food experience by organizing tupperware exchange and foodie events. Full-stack developer & Scrum master.
+* [`Cook4Me`](https://github.com/cook4me/android): An Android app to enhance people's food experience by organizing tupperware exchange, foodie events and cook challenges. Scrum master & developer.
 * [`GenderLens`](https://github.com/epfl-ada/ada-2022-project-alldatapointaccurate): Worked on the CMU Movie Summary Corpus with Python to obtain insights over gender inequalities in the movie industry. Analysed the evolution of gender inequalities by investigating the gender
 composition in the movie industry over time, proposing an mathematical explanation and inferring the conclusions. Read our [data story](https://zns2019.github.io/ADA-datastory/)!
