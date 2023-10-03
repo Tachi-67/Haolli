@@ -15,8 +15,7 @@
 
 
 ## 🔨 Have a look at my projects!
-* [`Cook4Me`](https://github.com/cook4me/android): An Android app to enhance people's food experience by organizing tupperware exchange, foodie events and cook challenges. 3rd prize (out of 22 teams). Scrum master, full-stack developer.
-* [`Route Planner`](https://github.com/Tachi-67/Route-Planner): A route planner to help users find the connection that is quick and the most probable to arrive on time. Data preprocessing & data wrangling, graph building and interactive UI. Done with Python & PySpark.
+* [`Cook4Me`](https://github.com/cook4me/android): Built an Android app for people to enhance their food experience with Kotlin & Jetpack Compose, contributed 132 commits & 5000+ lines of code with code climate code maintainability level A and test coverage 81% to the main branch, in the pattern of MVVM with the Scrum development process.
+* [`Route Planner`](https://github.com/Tachi-67/Route-Planner): Implemented analysis over the dataset of Switzerland public transportation timetable (~5 million rows) to build a travel route planner, by working with Python, PySpark, and Hadoop HDFS.
 * [`Pokémon Data Story`](https://github.com/Tachi-67/pokemon-data-story): A website to illustrate pokémon attributes. Visit our data story [website](https://tachi-67.github.io/pokemon-data-story/).
-* [`GenderLens`](https://github.com/epfl-ada/ada-2022-project-alldatapointaccurate): Worked on the CMU Movie Summary Corpus with Python to obtain insights over gender inequalities in the movie industry. Analysed the evolution of gender inequalities by investigating the gender
-composition in the movie industry over time, proposing an mathematical explanation and inferring the conclusions. Read our [data story](https://zns2019.github.io/ADA-datastory/)!
+* [`GenderLens`](https://github.com/epfl-ada/ada-2022-project-alldatapointaccurate): Analyzed the CMU Movie Summary Corpus (42,306 rows) to investigate gender inequalities in the movie industry with Python (Pandas).
