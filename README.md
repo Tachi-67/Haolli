@@ -9,7 +9,7 @@
 ## 📫 Let's connect!
 
 [![CV](https://img.shields.io/badge/-CV-yellow)](https://github.com/Tachi-67/Haolli/blob/main/CV_Haolong.pdf)
-[![Mail](https://img.shields.io/badge/-Email-blue)](mailto:haolong.li@epfl.com)
+[![Mail](https://img.shields.io/badge/-Email-blue)](mailto:haolong.li@epfl.ch)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haolong-li-3b6512256/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/Tachi-67)
 
