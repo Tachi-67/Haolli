@@ -14,7 +14,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/Tachi-67)
 
 
-## 🔨 Have a look at my projects!
+## 🔨 Have a look at my projects! (Sorted by time)
+* [`sci-BLOOM`](https://github.com/Tachi-67/sci-BLOOM): An educational chatbot for EPFL STEM students to help with their studies. Fine-tuned from [BLOOM-1b7](https://huggingface.co/bigscience/bloom-1b7) with SFT and DPO; training imprived with LoRA; size-reduced with quantization; specifically optimized for answering multiple-choice questions.
 * [`JARVIS`](https://huggingface.co/aiflows/JarvisFlowModule): Built JARVIS, a general purpose interactive agent empowered by a hierarchical structure of large language models, code interpreters and memory management mechanisms, able to accomplish tasks by planning, writing & executing code collaboratively with the user, and re-use previous accomplish results with a track of long-term goals.
 * [`Cook4Me`](https://github.com/cook4me/android): Built an Android app for people to enhance their food experience with Kotlin & Jetpack Compose, contributed 132 commits & 5000+ lines of code with code climate code maintainability level A and test coverage 81% to the main branch, in the pattern of MVVM with the Scrum development process.
 * [`Route Planner`](https://github.com/Tachi-67/Route-Planner): Implemented analysis over the dataset of Switzerland public transportation timetable (~5 million rows) to build a travel route planner, by working with Python, PySpark, and Hadoop HDFS.
