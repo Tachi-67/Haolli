@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Haolong Li (he/him)
 
-* 👨‍💻 Software Engineer Intern at Logitech
+* 👨‍💻 Master Thesis student at DLAB @ EPFL
+* 👨‍💻 Ex-Software Engineer Intern at Logitech
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne
 * 🎓 BSc in Statistics at Harbin Institute of Technology 
 * 💻 Software Development, Data Science, Machine Learning are my interests
